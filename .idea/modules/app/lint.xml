@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="C:/Users/91958/AndroidStudioProjects/App/app/src/main/res/drawable/profile.png" />
+        <ignore path="C:/Users/91958/AndroidStudioProjects/App/app/src/main/res/drawable/profile.png" />
+    </issue>
+</lint>

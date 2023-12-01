@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064606124453",
+    "project_id": "uconnectapp-d4adc",
+    "storage_bucket": "uconnectapp-d4adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064606124453:android:5ab99ac7aabdc3b5a9c04c",
+        "android_client_info": {
+          "package_name": "com.k.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnBKvmFhn7IekUJV-BcZ0vwr6VnsyCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
